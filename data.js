@@ -4,7 +4,7 @@ export const data = [
     id: "1",
     url: "https://davs-movie-maniac.netlify.app/",
     description: "Movie-maniac",
-    img: ".images/movie-maniac.png",
+    img: "images/movie-maniac.png",
   },
  
   {
