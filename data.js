@@ -11,7 +11,7 @@ export const data = [
     id: "2",
     url: "https://davs-react-quizz.netlify.app/",
     description: "React-quiz",
-    img: ".images/react-quiz.png",
+    img: "images/react-quiz.png",
   },
  
 ];
