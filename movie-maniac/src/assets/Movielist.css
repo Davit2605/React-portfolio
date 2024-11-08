@@ -1,6 +1,6 @@
 .main {
   display: flex;
-  flex-wrap: no-wrap;
+  flex-wrap: wrap;
 }
 
 .movies-ratings {
