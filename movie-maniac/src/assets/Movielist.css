@@ -1,7 +1,10 @@
 .main {
   display: flex;
   flex-wrap: wrap;
-  width: auto;
+  width: 100%;
+  margin: 0;
+  
+  
 }
 
 .movies-ratings {
