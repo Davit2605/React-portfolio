@@ -13,5 +13,11 @@ export const data = [
     description: "React-quiz",
     img: "images/react-quiz.png",
   },
+     {
+    id: "3",
+    url: "https://davs-flashcards.netlify.app/",
+    description: "Flashcards",
+    img: "images/flashcards.png",
+  },
  
 ];
