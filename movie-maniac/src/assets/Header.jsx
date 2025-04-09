@@ -6,7 +6,7 @@ const Header = () => {
       <h2 className="header">🎞️ Free Movies 🎞️</h2>
 
       <div className="header-links">
-        <ul className="align-items">
+{/*         <ul className="align-items">
           <li>
             <a href="popular">Popular 🔥</a>
           </li>
@@ -16,7 +16,7 @@ const Header = () => {
           </li>
           <li>
             <a href="top-rated">Upcoming 🥳</a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </nav>
