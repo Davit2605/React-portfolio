@@ -1,0 +1,27 @@
+.nav-container {
+  justify-content: space-between;
+  padding: 0 20px;
+  border-bottom: 1px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-links ul li {
+  list-style-type: none;
+  margin-left: 15px;
+}
+
+.header-links ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.header {
+  cursor: pointer;
+  color: yellow;
+  font-weight: 600;
+  font-size: 2rem;
+}
