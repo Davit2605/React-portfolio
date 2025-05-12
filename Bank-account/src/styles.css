@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+button {
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+p {
+  font-size: 25px;
+}
