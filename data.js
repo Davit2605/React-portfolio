@@ -19,5 +19,11 @@ export const data = [
     description: "Flashcards",
     img: "images/flashcards.png",
   },
+     {
+    id: "4",
+    url: "",
+    description: "Bank-account",
+    img: "images/Bank-account.png",
+  },
  
 ];
